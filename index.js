@@ -91,4 +91,4 @@ bot.on('guildMemberAdd', member => {
 });
 
 
-bot.login('NDA4MDc1MzI1MjEwMDk5NzIz.DVLTmQ.umKdqXH9gqPHllMwDocfWaqvrIM');
+bot.login('');
